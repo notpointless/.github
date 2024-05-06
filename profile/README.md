@@ -1,4 +1,6 @@
-## Hi there 👋
+<div style="text-align:center;">
+    <img src="https://github.com/notpointless/homepage/blob/main/logo.svg" alt="Pointless AI Logo">
+</div>
 
 <!--
 

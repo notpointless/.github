@@ -1,5 +1,5 @@
 <div style="text-align:center;">
-    <img src="https://github.com/notpointless/homepage/blob/main/logo.svg" alt="Pointless AI Logo">
+    <img width="130" height="130" src="https://github.com/notpointless/homepage/blob/main/logo.svg" alt="Pointless AI Logo">
 </div>
 
 <!--

@@ -1,7 +1,7 @@
 <div align="center">
     <img width="130" height="130" src="https://github.com/notpointless/homepage/blob/main/logo.svg" alt="Pointless AI Logo">
 </div>
-
+Pointless AI is a brand/hierarchy for my projects. All projects within this repository will permanently be affiliated with Pointless AI, whether they incorporate ML or not. Pointless AI will strive for transparency and privacy. 
 <!--
 
 **Here are some ideas to get you started:**

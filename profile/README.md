@@ -1,4 +1,4 @@
-<div style="text-align: center">
+<div style="display:flex;justify-content: center">
     <img width="130" height="130" src="https://github.com/notpointless/homepage/blob/main/logo.svg" alt="Pointless AI Logo">
 </div>
 

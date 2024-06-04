@@ -6,3 +6,5 @@ Pointless AI is a brand/hierarchy for my projects. All projects within this repo
 
 ## Hierarchy
 todo
+
+disclaimer: projects may or may not have ML in them.
